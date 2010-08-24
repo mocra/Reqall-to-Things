@@ -1,0 +1,24 @@
+h1. Reqall to Things
+
+A simple script to fetch todo from reqall and add it to strings. 
+
+h2. Install
+
+This uses RVM, so as you enter the directory it'll create a new gemset using ruby-1.8.7-p174
+
+then
+
+    gem install bundler
+    bundle install
+
+and you should have all of the gems required. 
+
+Next open up reqall.rb and add your RSS feed. 
+
+h2. Run
+
+to run, at the command line
+
+  ruby reqall.rb
+
+
