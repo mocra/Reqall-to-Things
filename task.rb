@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'appscript'
 
-#
 # Tiny class to assist in the creation of things to-dos
 class Task
   include Appscript
