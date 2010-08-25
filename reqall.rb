@@ -6,6 +6,7 @@ reqall_feed = ''
 
 if reqall_feed == ''
   puts "please set your reqall_feed in reqall.rb"
+  puts "please ensure your feed is http and not https"
   exit(1)
 end
 

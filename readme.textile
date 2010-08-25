@@ -13,7 +13,7 @@ then
 
 and you should have all of the gems required. 
 
-Next open up reqall.rb and add your RSS feed. 
+Next open up reqall.rb and add your RSS feed. Please ensure its http and not https
 
 h2. Run
 

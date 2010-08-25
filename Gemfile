@@ -2,4 +2,4 @@
 source :gemcutter
 #
 gem "feedzirra"
-gem "ap-appscript"
+gem "rb-appscript"
